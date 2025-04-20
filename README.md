@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Uppula Sneha</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<!-- 🧑‍💻 Updated Illustration -->
+<img align="right" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/sneha.png" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=uppulasneha&label=Profile%20views&color=0e75b6&style=flat" alt="uppulasneha" />
+ 
+</p>
+
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **projects that explore real-world data and AI models**
-- 🌱 I’m currently learning **Machine Learning, Data Visualization, and Statistics**
+- 🌱 I’m currently learning **Machine Learning, Data Visualization, Artifical Intelligence and Statistics**
 - 💬 Ask me about **Python, Pandas, ML basics, and Data Wrangling**
 - 📫 Reach me at: snehauppula23@gmail.com  
-- 💬 Discord: **snehauppula**
-- ⚡ Fun fact: **I turn coffee ☕ into insights 📊**
+- ⚡ Fun fact: **Data scientists: 80% cleaning data 🧹, 20% analyzing it 📊!**
 
 ---
 
 ### 📌 My Favorite Quote
 
-> "In God we trust. All others must bring data." — W. Edwards Deming
+> "The goal is to turn data into information, and information into insight." – Carly Fiorina
 
 ---
 
@@ -37,42 +43,47 @@
 ---
 
 ### 🧠 Tech Stack & Tools
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" alt="Scikit-learn" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </p>
+
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uppulasneha&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehauppula&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uppulasneha&show_icons=true&locale=en&theme=tokyonight" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uppulasneha&theme=tokyonight" /></p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uppulasneha&theme=tokyonight&no-frame=true&margin-w=10" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehauppula&show_icons=true&locale=en&theme=tokyonight" />
 </p>
 
----
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=tokyonight" />
+</p>
+
+
+
 
 ### 📅 GitHub Contributions Calendar
 
-[![Sneha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uppulasneha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sneha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehauppula&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -83,16 +94,7 @@
 - 📊 **Advanced EDA Techniques**
 - 📘 **Kaggle Competitions & Notebooks**
 
----
 
-### ✨ Fun Projects Coming Soon
-
-- 🧠 Sentiment analysis from real-time Twitter data  
-- 📍 ML model to detect fake news  
-- 📅 Resume screener with NLP  
-- 🧮 Data dashboard using Streamlit
-
----
 
 ### 🔗 Useful Resources I Love
 
