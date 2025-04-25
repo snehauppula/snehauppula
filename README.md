@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <!-- 🧑‍💻 Updated Illustration -->
-<img align="right" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/sneha.png" />
+<img align="right" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=uppulasneha&label=Profile%20views&color=0e75b6&style=flat" alt="uppulasneha" />
