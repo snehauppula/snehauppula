@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Uppula Sneha</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <!-- 🧑‍💻 Updated Illustration -->
 <img align="right" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=uppulasneha&label=Profile%20views&color=0e75b6&style=flat" alt="uppulasneha" />
-</p>
+<p align="left"></p>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Math+Lover;Data+Enthusiast;Tech+Enthusiast" alt="Typing SVG" />
+</a>
+
+---
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **projects that explore real-world data and AI models**
-- 🌱 I’m currently learning **Machine Learning, Data Visualization, Artifical Intelligence and Statistics**
+- 🌱 I’m currently learning **Machine Learning, Data Visualization, Artificial Intelligence, and Statistics**
 - 💬 Ask me about **Python, Pandas, ML basics, and Data Wrangling**
 - 📫 Reach me at: snehauppula23@gmail.com  
 - ⚡ Fun fact: **Data scientists: 80% cleaning data 🧹, 20% analyzing it 📊!**
@@ -38,9 +40,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.gg/https://discord.gg/zeG7d9cucB" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -63,26 +64,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
 </p>
 
-
-
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehauppula&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/uppulasneha/count.svg" alt="Visitor Count" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehauppula&show_icons=true&locale=en&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehauppula&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehauppula&show_icons=true&locale=en&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=tokyonight" />
-</p>
-
-
-
+---
 
 ### 📅 GitHub Contributions Calendar
 
@@ -97,7 +93,7 @@
 - 📊 **Advanced EDA Techniques**
 - 📘 **Kaggle Competitions & Notebooks**
 
-
+---
 
 ### 🔗 Useful Resources I Love
 
