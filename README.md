@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uppula Sneha</h1>
 
 <!-- 🧑‍💻 Updated Illustration -->
-<img align="right" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
+<img align="center" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
 
-<p align="left"></p>
+<p align="center"></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Math+Lover;AI+Enthusiast;Tech+Enthusiast" alt="Typing SVG" />
