@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Uppula Sneha</h1>
 
 <!-- 🧑‍💻 Updated Illustration -->
-<img align="center" alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
+<div style="text-align: center;">
+  <img alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
+</div>
+
 
 <p align="center"></p>
 
