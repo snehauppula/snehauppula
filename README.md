@@ -80,7 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehauppula&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=snehauppula&show_icons=true&locale=en&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=tokyonight" height="150" alt="GitHub Streak" />
+  
 </p>
 <!-- Divider -->
 <div align="center">
