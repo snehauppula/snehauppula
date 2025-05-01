@@ -13,10 +13,6 @@
 <!-- Typing SVG -->
 
 
-<!-- Divider -->
-<div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=blueberry_duo&hide_border=true" alt="Divider" />
-</div>
 
 ---
 
@@ -86,6 +82,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=snehauppula&show_icons=true&locale=en&theme=tokyonight" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
+<!-- Divider -->
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
 
 ---
 
