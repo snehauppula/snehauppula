@@ -19,16 +19,16 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **projects that explore real-world data and AI models**
-- 🌱 I’m currently learning **Machine Learning, Data Visualization, Artificial Intelligence, and Statistics**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Artificial Intelligence, and Statistics**
 - 💬 Ask me about **Python, Pandas, ML basics, and Data Wrangling**
 - 📫 Reach me at: snehauppula23@gmail.com  
-- ⚡ Fun fact: **Data scientists: 80% cleaning data 🧹, 20% analyzing it 📊!**
+- ⚡ 📬 Inbox: open for ideas | Brain: under active development
 
 ---
 
 ### 📌 My Favorite Quote
 
-> "The goal is to turn data into information, and information into insight." – Carly Fiorina
+> "Learning never ends. It just commits more frequently."
 
 ---
 
