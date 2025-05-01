@@ -1,16 +1,22 @@
-<h1 align="center">Hi 👋, I'm Uppula Sneha</h1>
+<h1 align="center">Uppula Sneha ✨ </h1>
 
-<!-- 🧑‍💻 Updated Illustration -->
-<div style="text-align: center;">
+<!-- Illustration -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Math+Lover;AI+Enthusiast;Tech+Enthusiast;Data+Science+Student" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
   <img alt="Sneha coding" width="400" src="https://raw.githubusercontent.com/snehauppula/snehauppula/main/coding.png" />
 </div>
 
+<!-- Typing SVG -->
 
-<p align="center"></p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Math+Lover;AI+Enthusiast;Tech+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- Divider -->
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehauppula&theme=blueberry_duo&hide_border=true" alt="Divider" />
+</div>
 
 ---
 
