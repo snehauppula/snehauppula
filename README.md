@@ -12,7 +12,6 @@
 
 <!-- Typing SVG -->
 
-
 ---
 
 ### 🚀 About Me
