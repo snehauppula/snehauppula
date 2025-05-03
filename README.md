@@ -93,8 +93,7 @@
   <!-- C -->
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   
-  <!-- MongoDB (example you provided) -->
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
 </p>
 
 ---
