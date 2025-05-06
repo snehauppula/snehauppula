@@ -1,5 +1,4 @@
 <h1 align="center">Uppula Sneha ✨ </h1>
-
 <!-- Illustration -->
 <div align="center">
   <a href="https://git.io/typing-svg">
