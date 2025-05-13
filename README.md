@@ -11,7 +11,6 @@
 </div>
 
 <!-- Typing SVG -->
-
 ---
 
 ### 🚀 About Me
