@@ -1,5 +1,4 @@
 <h1 align="center">I'm Uppula Sneha ✨ </h1>
-
 <!-- Illustration -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -99,9 +98,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/uppulasneha/count.svg" alt="Visitor Count" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehauppula&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
