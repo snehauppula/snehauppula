@@ -118,15 +118,6 @@
 
 ---
 
-### 📚 Currently Learning
-
-- 🌐 **Power BI and Tableau**
-- 🤖 **TensorFlow and Neural Networks**
-- 📊 **Advanced EDA Techniques**
-- 📘 **Kaggle Competitions & Notebooks**
-
----
-
 ### 🔗 Useful Resources I Love
 
 - [Kaggle](https://www.kaggle.com/)
